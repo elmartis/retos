@@ -1,2 +1,2 @@
-#  12 retos EN 12 DIAS
+#  12 Retos  HTML,CSS,JAVA SCRIP
 LINK: https://elmartis.github.io/retos/
